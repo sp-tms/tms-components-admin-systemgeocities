@@ -1,0 +1,35 @@
+{
+	"name" : "Geo Cities",
+	"route" : "system/geo/cities",
+	"description" : "Manage geo cities via this component",
+	"module_type" : "components",
+	"app_type" : "tms",
+	"category" : "admin",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-framework/core/tms-components-admin-systemgeocities",
+	"class" : "Apps\\Tms\\Components\\System\\Geo\\Cities\\CitiesComponent",
+	"dependencies" : 
+	{
+		"core" : 
+		{
+			"name" : "Core",
+			"version" : "0.0.0-rc.15",
+			"repo" : "https://github.com/sp-framework/core"
+		},
+		"components" : [],
+		"packages" : [],
+		"middlewares" : [],
+		"views" : [],
+		"external" : [],
+		"externals" : [],
+		"apptype" : 
+		{
+			"name" : "Transport Management System",
+			"version" : "0.0.0",
+			"repo" : "https://github.com/sp-tms/tms"
+		}
+	},
+	"menu" : "false",
+	"widgets" : [],
+	"settings" : []
+}
