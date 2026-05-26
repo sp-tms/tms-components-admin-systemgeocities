@@ -6,7 +6,7 @@
 	"app_type" : "tms",
 	"category" : "admin",
 	"version" : "0.0.0",
-	"repo" : "https://github.com/sp-framework/core/tms-components-admin-systemgeocities",
+	"repo" : "https://github.com/sp-tms/tms-components-admin-systemgeocities",
 	"class" : "Apps\\Tms\\Components\\System\\Geo\\Cities\\CitiesComponent",
 	"dependencies" : 
 	{
@@ -31,5 +31,6 @@
 	},
 	"menu" : "false",
 	"widgets" : [],
+	"filters" : [],
 	"settings" : []
 }
